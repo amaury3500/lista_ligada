@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1682977892 source:c:\users\amaur\documents\lista ligada1\src\socioclub.cpp
+	"SocioClub.h"
+
+1682977892 c:\users\amaur\documents\lista ligada1\include\socioclub.h
+	<iostream>
+
+1682978265 source:c:\users\amaur\documents\lista ligada1\main.cpp
+	<iostream>
+	<locale.h>
+	"SocioClub.h"
+
